@@ -8,7 +8,7 @@ The code starts with a request to one wiki page with all Universal Music  Group 
 my code goes through each page and scrapes the bottom of the page Albums box (HTML). I hard coded it so it is ugly and long, but the result is some beatiful big data 
 crowdsourced for us by Wikipedia pages. Don't worry I did try to find a HTTP request that did this and there wasn't one!!
 
-artist_list_to_link_list.py - request to original Wiki page with all artists
-parse_info.py - scrape data 
-csv_writer.py - write to CSV
+artist_list_to_link_list.py - request to original Wiki page with all artists, 
+  parse_info.py - scrape data, 
+     csv_writer.py - write to CSV
 
